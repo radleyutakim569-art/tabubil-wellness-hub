@@ -130,6 +130,20 @@ button {
 }
 
 @media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 , h2 {
+        font-size: 1.8rem;
+        margin-bottom: 15px;
+    }
+
+    section {
+        padding: 20px 10px;
+        margin: 10px 0;
+        width: 100% !important;
+        float: none !important;
 
     .footer-container {
     text-align: center;
