@@ -1,8 +1,9 @@
-// Tabubil Wellness Hub JavaScript
+/* Tabubil Wellness Hub JavaScript */
 
 console.log("Welcome to Tabubil Wellness Hub!");
 
-// Automatically update the copyright year
+/* Automatically update the copyright year */
+
 const year = document.getElementById("year");
 
 if (year) {
